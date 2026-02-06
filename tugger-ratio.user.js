@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Tugger Ratio FCLM line item
+// @name         Tugger Ratio FCLM
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Inserts a Tugger Ratio line in FCLM below STPS using the following formula: (ETI hours + ESTP hours) / (Tugger hours + Trans hours)
